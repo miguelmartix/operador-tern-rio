@@ -1,0 +1,1 @@
+# listaprog-operadorTernario
